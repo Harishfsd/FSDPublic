@@ -1,0 +1,6 @@
+\\rtpfip01\Profile_Redirection\Virtual\Cognizant\cog_hchandra\Documents\Visual Studio 2013\Projects\FSDClassApplication\FSDClassApplication\bin\Debug\FSDClassApplication.exe.config
+\\rtpfip01\Profile_Redirection\Virtual\Cognizant\cog_hchandra\Documents\Visual Studio 2013\Projects\FSDClassApplication\FSDClassApplication\obj\Debug\FSDClassApplication.csprojResolveAssemblyReference.cache
+\\rtpfip01\Profile_Redirection\Virtual\Cognizant\cog_hchandra\Documents\Visual Studio 2013\Projects\FSDClassApplication\FSDClassApplication\bin\Debug\FSDClassApplication.exe
+\\rtpfip01\Profile_Redirection\Virtual\Cognizant\cog_hchandra\Documents\Visual Studio 2013\Projects\FSDClassApplication\FSDClassApplication\bin\Debug\FSDClassApplication.pdb
+\\rtpfip01\Profile_Redirection\Virtual\Cognizant\cog_hchandra\Documents\Visual Studio 2013\Projects\FSDClassApplication\FSDClassApplication\obj\Debug\FSDClassApplication.exe
+\\rtpfip01\Profile_Redirection\Virtual\Cognizant\cog_hchandra\Documents\Visual Studio 2013\Projects\FSDClassApplication\FSDClassApplication\obj\Debug\FSDClassApplication.pdb

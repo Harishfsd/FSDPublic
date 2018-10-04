@@ -1,0 +1,6 @@
+\\rtpfip01\Profile_Redirection\Virtual\Cognizant\cog_hchandra\Documents\Visual Studio 2013\Projects\FSDConsoleApplication\FSDConsoleApplication\bin\Debug\FSDConsoleApplication.exe.config
+\\rtpfip01\Profile_Redirection\Virtual\Cognizant\cog_hchandra\Documents\Visual Studio 2013\Projects\FSDConsoleApplication\FSDConsoleApplication\bin\Debug\FSDConsoleApplication.exe
+\\rtpfip01\Profile_Redirection\Virtual\Cognizant\cog_hchandra\Documents\Visual Studio 2013\Projects\FSDConsoleApplication\FSDConsoleApplication\bin\Debug\FSDConsoleApplication.pdb
+\\rtpfip01\Profile_Redirection\Virtual\Cognizant\cog_hchandra\Documents\Visual Studio 2013\Projects\FSDConsoleApplication\FSDConsoleApplication\obj\Debug\FSDConsoleApplication.csprojResolveAssemblyReference.cache
+\\rtpfip01\Profile_Redirection\Virtual\Cognizant\cog_hchandra\Documents\Visual Studio 2013\Projects\FSDConsoleApplication\FSDConsoleApplication\obj\Debug\FSDConsoleApplication.exe
+\\rtpfip01\Profile_Redirection\Virtual\Cognizant\cog_hchandra\Documents\Visual Studio 2013\Projects\FSDConsoleApplication\FSDConsoleApplication\obj\Debug\FSDConsoleApplication.pdb
